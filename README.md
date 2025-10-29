@@ -6,4 +6,13 @@ This project explores the factors that influenced passenger survival during the 
 
 ## Project Goals
 
-Goal:See if survival rate had anything to do with the passenger class, Also assess the age of the passengers within each class to identify vulnerable age categories.
+## Goal:
+See if survival rate had anything to do with the passenger class, Also assess the age of the passengers within each class to identify vulnerable age categories.
+
+## Data Preperation
+
+The Titanic dataset is downloaded, cleaned, and prepared for analysis. The process begins by retrieving the dataset from Google Drive using the gdown library, then loading it into a Pandas DataFrame for inspection and preprocessing.
+
+Next, the data is stored in a SQLite database, enabling the use of SQL queries directly within the Jupyter Notebook. By loading the SQL extension with %load_ext sql and connecting to the database using %sql, the environment allows for both Python-based and SQL-based data exploration.
+
+This setup provides a structured and flexible workspace where Python and SQL can be used together to analyze, query, and visualize the Titanic dataset effectively in later stages of the project.

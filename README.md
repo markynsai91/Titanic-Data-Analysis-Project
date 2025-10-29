@@ -16,3 +16,5 @@ The Titanic dataset is downloaded, cleaned, and prepared for analysis. The proce
 Next, the data is stored in a SQLite database, enabling the use of SQL queries directly within the Jupyter Notebook. By loading the SQL extension with %load_ext sql and connecting to the database using %sql, the environment allows for both Python-based and SQL-based data exploration.
 
 This setup provides a structured and flexible workspace where Python and SQL can be used together to analyze, query, and visualize the Titanic dataset effectively in later stages of the project.
+
+https://colab.research.google.com/drive/15h_uLkgd5giEao_HCFlHWDoa9WBzZwBc?usp=sharing

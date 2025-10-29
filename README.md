@@ -22,8 +22,7 @@ The workflow combines **data preprocessing**, **exploratory data analysis (EDA)*
 ## Data Preparation & Workflow  
 
 ### **Step 1 — Data Loading**  
-- Downloaded dataset from Google Drive using the `gdown` library.  
-- Loaded into a Pandas DataFrame for inspection, type verification, and missing value analysis.
+- Loaded Dataset into a Pandas DataFrame for inspection, type verification, and missing value analysis.
 
 ### **Step 2 — Data Cleaning & Feature Engineering**  
 - Imputed missing `Age` values using **mean imputation**.  

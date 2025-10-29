@@ -52,7 +52,7 @@ You can explore the interactive dashboard here:
 👉 **[View on Tableau Public](https://public.tableau.com/shared/QZJ45DKH9?:display_count=n&:origin=viz_share_link)**  
 
 ### **Dashboard Preview**
-![Titanic Tableau Dashboard](Screenshot%202025-10-28%20at%2010.40.13 PM.png)
+![Titanic Tableau Dashboard](titanic_dashboard.png)
 
 ### **Dashboard Components**
 - **Survived % Pie Chart:** Shows passenger distribution across classes.  
